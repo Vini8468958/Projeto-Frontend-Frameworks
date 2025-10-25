@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">projeto-frontend-frameworks</string>
+    <string name="title_activity_main">projeto-frontend-frameworks</string>
+    <string name="package_name">projeto.frontend.frameworks</string>
+    <string name="custom_url_scheme">projeto.frontend.frameworks</string>
+</resources>
